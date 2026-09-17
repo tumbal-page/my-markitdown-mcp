@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+markitdown
+mcp[cli]
